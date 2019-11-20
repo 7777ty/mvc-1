@@ -1,0 +1,13 @@
+.app2{
+    border:1px solid blue;
+}
+.app2 .tabBar{
+    display: flex;
+}
+.app2 .tabBar li{
+    width: 50%;
+    border:1px solid black;
+}
+.hidden{
+    display: none;
+}

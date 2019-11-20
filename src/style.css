@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    overflow: hidden;
+}
+.global{
+    display: flex;
+    flex-wrap: wrap;
+}
+.global section{
+    width:50vw;
+    height: 50vh;
+}
